@@ -1,0 +1,79 @@
+# depslib dependency file v1.0
+1510025094 source:c:\users\shuen\desktop\assignment2\main.cpp
+	<iostream>
+	"Arraylist.h"
+
+1510023728 c:\users\shuen\desktop\assignment2\include\student.h
+	"Person.h"
+
+1510023897 c:\users\shuen\desktop\assignment2\include\person.h
+	<string>
+	<iostream>
+	<sstream>
+	<stdlib.h>
+
+1510025004 source:c:\users\shuen\desktop\assignment2\src\person.cpp
+	"Person.h"
+
+1510024877 source:c:\users\shuen\desktop\assignment2\src\student.cpp
+	"Student.h"
+
+1510045496 source:c:\users\shuen\desktop\assignment2\src\arraylist.cpp
+	"ArrayList.h"
+
+1510025041 c:\users\shuen\desktop\assignment2\include\arraylist.h
+	"Student.h"
+	"Person.h"
+
+1510130579 source:c:\users\shuen\desktop\assignment2 (1)\assignment2\main.cpp
+	<iostream>
+	"Arraylist.h"
+
+1510130567 c:\users\shuen\desktop\assignment2 (1)\assignment2\include\arraylist.h
+	"Student.h"
+	"Person.h"
+
+1510023728 c:\users\shuen\desktop\assignment2 (1)\assignment2\include\student.h
+	"Person.h"
+
+1510023897 c:\users\shuen\desktop\assignment2 (1)\assignment2\include\person.h
+	<string>
+	<iostream>
+	<sstream>
+	<stdlib.h>
+
+1510025004 source:c:\users\shuen\desktop\assignment2 (1)\assignment2\src\person.cpp
+	"Person.h"
+
+1510024877 source:c:\users\shuen\desktop\assignment2 (1)\assignment2\src\student.cpp
+	"Student.h"
+
+1510129744 source:c:\users\shuen\desktop\assignment2 (1)\assignment2\src\arraylist.cpp
+	"ArrayList.h"
+
+1510130579 source:d:\dimploma in cs\sem 3\2 fundamentals of object oriented programming\ass 2\assignment2 (1)\assignment2\main.cpp
+	<iostream>
+	"Arraylist.h"
+
+1510130567 d:\dimploma in cs\sem 3\2 fundamentals of object oriented programming\ass 2\assignment2 (1)\assignment2\include\arraylist.h
+	"Student.h"
+	"Person.h"
+
+1510023728 d:\dimploma in cs\sem 3\2 fundamentals of object oriented programming\ass 2\assignment2 (1)\assignment2\include\student.h
+	"Person.h"
+
+1510023897 d:\dimploma in cs\sem 3\2 fundamentals of object oriented programming\ass 2\assignment2 (1)\assignment2\include\person.h
+	<string>
+	<iostream>
+	<sstream>
+	<stdlib.h>
+
+1510130632 source:d:\dimploma in cs\sem 3\2 fundamentals of object oriented programming\ass 2\assignment2 (1)\assignment2\src\arraylist.cpp
+	"ArrayList.h"
+
+1510025004 source:d:\dimploma in cs\sem 3\2 fundamentals of object oriented programming\ass 2\assignment2 (1)\assignment2\src\person.cpp
+	"Person.h"
+
+1510024877 source:d:\dimploma in cs\sem 3\2 fundamentals of object oriented programming\ass 2\assignment2 (1)\assignment2\src\student.cpp
+	"Student.h"
+

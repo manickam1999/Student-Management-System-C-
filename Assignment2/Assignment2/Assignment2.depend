@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1509462445 source:c:\users\shuen\desktop\assignment2\main.cpp
+	<iostream>
+	"Arraylist.h"
+
+1509457021 c:\users\shuen\desktop\assignment2\include\student.h
+	"Person.h"
+
+1509462071 c:\users\shuen\desktop\assignment2\include\person.h
+	<string>
+	<iostream>
+	<sstream>
+
+1509453045 source:c:\users\shuen\desktop\assignment2\src\person.cpp
+	"Person.h"
+
+1509457064 source:c:\users\shuen\desktop\assignment2\src\student.cpp
+	"Student.h"
+
+1509463537 source:c:\users\shuen\desktop\assignment2\src\arraylist.cpp
+	"ArrayList.h"
+
+1509463639 c:\users\shuen\desktop\assignment2\include\arraylist.h
+	"Student.h"
+
+1509462445 source:d:\dimploma in cs\sem 3\2 fundamentals of object oriented programming\ass 2\assignment2 (1)\assignment2\assignment2\main.cpp
+	<iostream>
+	"Arraylist.h"
+
+1509463639 d:\dimploma in cs\sem 3\2 fundamentals of object oriented programming\ass 2\assignment2 (1)\assignment2\assignment2\include\arraylist.h
+	"Student.h"
+
+1509457021 d:\dimploma in cs\sem 3\2 fundamentals of object oriented programming\ass 2\assignment2 (1)\assignment2\assignment2\include\student.h
+	"Person.h"
+
+1509462071 d:\dimploma in cs\sem 3\2 fundamentals of object oriented programming\ass 2\assignment2 (1)\assignment2\assignment2\include\person.h
+	<string>
+	<iostream>
+	<sstream>
+
+1509463938 source:d:\dimploma in cs\sem 3\2 fundamentals of object oriented programming\ass 2\assignment2 (1)\assignment2\assignment2\src\arraylist.cpp
+	"ArrayList.h"
+
+1509453045 source:d:\dimploma in cs\sem 3\2 fundamentals of object oriented programming\ass 2\assignment2 (1)\assignment2\assignment2\src\person.cpp
+	"Person.h"
+
+1509457064 source:d:\dimploma in cs\sem 3\2 fundamentals of object oriented programming\ass 2\assignment2 (1)\assignment2\assignment2\src\student.cpp
+	"Student.h"
+
